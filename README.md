@@ -54,4 +54,5 @@
 - [ ]  **스탯 정보 추가2 :** 5번 선택으로 현재 능력치 출력 시, 남은 포션 개수도 함께 보여주세요
 
 <img width="704" height="263" alt="image" src="https://github.com/user-attachments/assets/249abca8-d160-4c59-9a07-23d361ff399e" />
+
 기능 구현 및 예외 처리 구현
